@@ -69,7 +69,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: http://Alegj.github.io
+    base_url: https://heliconian.github.io/womanoncanvas/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
